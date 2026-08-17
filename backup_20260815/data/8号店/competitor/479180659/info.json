@@ -1,0 +1,25 @@
+{
+  "33936615": {
+    "wb_code": "33936615",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 432.0
+      }
+    ],
+    "image_path": "images/33936615.png",
+    "note": ""
+  },
+  "65261993": {
+    "wb_code": "65261993",
+    "price_history": [
+      {
+        "date": "2026-07-30",
+        "price": 974.0
+      }
+    ],
+    "image_path": "images/65261993.png",
+    "note": "",
+    "store_type": "本土店"
+  }
+}

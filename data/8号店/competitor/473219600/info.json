@@ -1,0 +1,25 @@
+{
+  "617551284": {
+    "wb_code": "617551284",
+    "price_history": [
+      {
+        "date": "2026-08-06",
+        "price": 491.0
+      }
+    ],
+    "image_path": "images/617551284.png",
+    "note": "",
+    "store_type": "跨境店"
+  },
+  "269749781": {
+    "wb_code": "269749781",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 443.0
+      }
+    ],
+    "image_path": "images/269749781.png",
+    "note": ""
+  }
+}

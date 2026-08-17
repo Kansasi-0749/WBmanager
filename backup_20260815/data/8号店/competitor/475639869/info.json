@@ -1,0 +1,43 @@
+{
+  "214494227": {
+    "wb_code": "214494227",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 370.0
+      },
+      {
+        "date": "2026-07-30",
+        "price": 488.0
+      }
+    ],
+    "image_path": "images/214494227.png",
+    "note": ""
+  },
+  "244199823": {
+    "wb_code": "244199823",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 255.0
+      }
+    ],
+    "image_path": "images/244199823.png",
+    "note": ""
+  },
+  "284174018": {
+    "wb_code": "284174018",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 355.0
+      },
+      {
+        "date": "2026-07-30",
+        "price": 441.0
+      }
+    ],
+    "image_path": "images/284174018.png",
+    "note": ""
+  }
+}

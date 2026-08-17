@@ -1,0 +1,42 @@
+{
+  "463307190": {
+    "wb_code": "463307190",
+    "price_history": [
+      {
+        "date": "2026-07-14",
+        "price": 1360.0
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1386.0
+      }
+    ],
+    "image_path": "images/463307190.png",
+    "note": "",
+    "store_type": "跨境店"
+  },
+  "793483119": {
+    "wb_code": "793483119",
+    "price_history": [
+      {
+        "date": "2026-07-20",
+        "price": 1455.0
+      }
+    ],
+    "image_path": "images/793483119.png",
+    "note": "",
+    "store_type": "本土店"
+  },
+  "961241993": {
+    "wb_code": "961241993",
+    "price_history": [
+      {
+        "date": "2026-07-20",
+        "price": 930.0
+      }
+    ],
+    "image_path": "images/961241993.png",
+    "note": "",
+    "store_type": "本土店"
+  }
+}

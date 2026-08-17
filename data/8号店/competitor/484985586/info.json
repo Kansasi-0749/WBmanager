@@ -1,0 +1,24 @@
+{
+  "165566202": {
+    "wb_code": "165566202",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 716.0
+      }
+    ],
+    "image_path": "images/165566202.png",
+    "note": ""
+  },
+  "182864507": {
+    "wb_code": "182864507",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 689.0
+      }
+    ],
+    "image_path": "images/182864507.png",
+    "note": ""
+  }
+}

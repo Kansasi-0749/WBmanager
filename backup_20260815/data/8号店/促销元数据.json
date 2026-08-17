@@ -1,0 +1,95 @@
+{
+  "promotions": [
+    {
+      "column_name": "1促",
+      "promotion_name": "Скидки к новому сезону - 2",
+      "start_date": "2026-07-20",
+      "end_date": "2026-09-03",
+      "upload_time": "2026-08-08 13:54:31"
+    },
+    {
+      "column_name": "2促",
+      "promotion_name": "Скидки к новому сезону",
+      "start_date": "2026-07-20",
+      "end_date": "2026-09-03",
+      "upload_time": "2026-08-08 13:54:41"
+    },
+    {
+      "column_name": "3促",
+      "promotion_name": "无订单商品折扣",
+      "start_date": "2026-07-22",
+      "end_date": "2026-08-17",
+      "upload_time": "2026-08-08 13:55:34"
+    },
+    {
+      "column_name": "4促",
+      "promotion_name": "无订单商品折扣",
+      "start_date": "2026-07-23",
+      "end_date": "2026-08-17",
+      "upload_time": "2026-08-08 13:56:06"
+    },
+    {
+      "column_name": "5促",
+      "promotion_name": "Скидки к новому сезону_ обновление цен",
+      "start_date": "2026-07-28",
+      "end_date": "2026-08-18",
+      "upload_time": "2026-08-08 13:56:36"
+    },
+    {
+      "column_name": "6促",
+      "promotion_name": "Скидки на товары без заказов",
+      "start_date": "2026-07-31",
+      "end_date": "2026-08-17",
+      "upload_time": "2026-08-08 13:57:08"
+    },
+    {
+      "column_name": "7促",
+      "promotion_name": "Летние скидки",
+      "start_date": "2026-07-31",
+      "end_date": "2026-08-17",
+      "upload_time": "2026-08-08 13:57:18"
+    },
+    {
+      "column_name": "8促",
+      "promotion_name": "Новинки",
+      "start_date": "2026-08-01",
+      "end_date": "2026-09-01",
+      "upload_time": "2026-08-08 13:57:43"
+    },
+    {
+      "column_name": "9促",
+      "promotion_name": "Скидки к новому сезону_ дополнительный этап",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-21",
+      "upload_time": "2026-08-08 13:59:18"
+    },
+    {
+      "column_name": "10促",
+      "promotion_name": "Скидки к новому сезону_ новинки",
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-21",
+      "upload_time": "2026-08-08 13:59:41"
+    },
+    {
+      "column_name": "11促",
+      "promotion_name": "Скидки к новому сезону_ выгодные предложения",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-21",
+      "upload_time": "2026-08-08 14:00:13"
+    },
+    {
+      "column_name": "12促",
+      "promotion_name": "Скидки к новому сезону_ дополнительный бустинг",
+      "start_date": "2026-08-14",
+      "end_date": "2026-09-03",
+      "upload_time": "2026-08-08 14:00:50"
+    },
+    {
+      "column_name": "13促",
+      "promotion_name": "Летние скидки",
+      "start_date": "2026-08-18",
+      "end_date": "2026-09-11",
+      "upload_time": "2026-08-11 08:49:48"
+    }
+  ]
+}

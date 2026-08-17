@@ -1,0 +1,101 @@
+{
+  "303208310": {
+    "wb_code": "303208310",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1664.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1683.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1747.0
+      }
+    ],
+    "image_path": "images/303208310.png",
+    "note": "",
+    "store_type": "本土店"
+  },
+  "778148557": {
+    "wb_code": "778148557",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1465.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1694.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1741.0
+      }
+    ],
+    "image_path": "images/778148557.png",
+    "note": ""
+  },
+  "798338543": {
+    "wb_code": "798338543",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1753.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1281.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1485.0
+      }
+    ],
+    "image_path": "images/798338543.png",
+    "note": "",
+    "store_type": "本土店"
+  },
+  "886411043": {
+    "wb_code": "886411043",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1499.0
+      }
+    ],
+    "image_path": "images/886411043.png",
+    "note": "",
+    "store_type": "本土店"
+  },
+  "492233482": {
+    "wb_code": "492233482",
+    "price_history": [
+      {
+        "date": "2026-07-14",
+        "price": 1109.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1135.0
+      }
+    ],
+    "image_path": "images/492233482.png",
+    "note": "",
+    "store_type": "跨境店"
+  },
+  "442132122": {
+    "wb_code": "442132122",
+    "price_history": [
+      {
+        "date": "2026-07-14",
+        "price": 849.0
+      }
+    ],
+    "image_path": "images/442132122.png",
+    "note": "国内直发",
+    "store_type": "跨境店"
+  }
+}

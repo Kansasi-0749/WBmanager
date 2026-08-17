@@ -1,0 +1,24 @@
+{
+  "252402019": {
+    "wb_code": "252402019",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 996.0
+      }
+    ],
+    "image_path": null,
+    "note": ""
+  },
+  "331899513": {
+    "wb_code": "331899513",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 996.0
+      }
+    ],
+    "image_path": null,
+    "note": ""
+  }
+}

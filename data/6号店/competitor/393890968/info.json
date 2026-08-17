@@ -1,0 +1,116 @@
+{
+  "498233117": {
+    "wb_code": "498233117",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1551.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1413.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1483.0
+      },
+      {
+        "date": "2026-07-27",
+        "price": 428.0
+      }
+    ],
+    "image_path": "images/498233117.png",
+    "note": ""
+  },
+  "322313513": {
+    "wb_code": "322313513",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1411.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1230.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1313.0
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1354.0
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1246.0
+      }
+    ],
+    "image_path": "images/322313513.png",
+    "note": ""
+  },
+  "744056647": {
+    "wb_code": "744056647",
+    "price_history": [
+      {
+        "date": "2026-07-20",
+        "price": 876.0
+      }
+    ],
+    "image_path": null,
+    "note": "",
+    "store_type": "本土店"
+  },
+  "169420923": {
+    "wb_code": "169420923",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1371.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 782.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 774.0
+      }
+    ],
+    "image_path": "images/169420923.png",
+    "note": "",
+    "store_type": "跨境店"
+  },
+  "482532530": {
+    "wb_code": "482532530",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 1059.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 897.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 870.0
+      }
+    ],
+    "image_path": "images/482532530.png",
+    "note": "",
+    "store_type": "跨境店"
+  },
+  "767857754": {
+    "wb_code": "767857754",
+    "price_history": [
+      {
+        "date": "2026-07-14",
+        "price": 743.0
+      }
+    ],
+    "image_path": "images/767857754.png",
+    "note": "",
+    "store_type": "本土店"
+  }
+}

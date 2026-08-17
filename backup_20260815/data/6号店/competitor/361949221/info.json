@@ -1,0 +1,20 @@
+{
+  "217298997": {
+    "wb_code": "217298997",
+    "price_history": [
+      {
+        "date": "2026-07-08",
+        "price": 6773.0
+      }
+    ],
+    "image_path": "images/217298997.png",
+    "note": ""
+  },
+  "399532292": {
+    "wb_code": "399532292",
+    "price_history": [],
+    "image_path": "images/399532292.png",
+    "note": "图片参考",
+    "store_type": "本土店"
+  }
+}
